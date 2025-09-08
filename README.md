@@ -66,10 +66,9 @@ La aplicación sigue el patrón de arquitectura de fragmentos únicos con:
 > **Instrucciones para capturas**: Crea una carpeta llamada `screenshots` en la raíz del proyecto y agrega las siguientes imágenes:
 
 ### Navegación Principal
-![Imagen de WhatsApp 2025-09-08 a las 00 57 56_b07cd922](https://github.com/user-attachments/assets/1fa6b30b-2f38-47f2-9dd9-79537a96e9b5)
 
 ### Text Fields
-![Text Fields Fragment](screenshots/text_fields.png)
+![Imagen de WhatsApp 2025-09-08 a las 00 57 56_b07cd922](https://github.com/user-attachments/assets/1fa6b30b-2f38-47f2-9dd9-79537a96e9b5)
 
 ### Botones
 ![Imagen de WhatsApp 2025-09-08 a las 00 57 57_9a3645d9](https://github.com/user-attachments/assets/5fee698f-7a76-49e4-8c3d-5434e46fa7cc)
